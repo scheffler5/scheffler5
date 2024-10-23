@@ -37,6 +37,7 @@
 
 
 ![snake_gif](https://github.com/scheffler5/scheffler5/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/scheffler5/scheffler5/blob/output/github-snake-dark.svg)
 
 
 
