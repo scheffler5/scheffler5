@@ -10,8 +10,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scheffler5&bg_color=000000&color=FF0000&line=FF0000&point=8B0000&area=true&hide_border=true)](https://github.com/scheffler500710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scheffler5&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=scheffler5&theme=onestar&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
+
 
 <div align="center">  
 <a href="https://www.instagram.com/___scheffler05__/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
