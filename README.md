@@ -38,6 +38,9 @@
 
 
 
+<p align="center">
+  <img src="https://scheffler5.github.io/snake-game-automatic//?username=scheffler5&theme=onestar&row=2&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 
