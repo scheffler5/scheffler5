@@ -4,7 +4,7 @@
   
   <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scheffler5&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Lima Scheffler github stats" /> 
-  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheffler5&layout=compact&hide_border=true&title_color=FF0000&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scheffler5&bg_color=000000&color=FF0000&line=FF0000&point=8B0000&area=true&hide_border=true)](https://github.com/scheffler500710/github-readme-activity-graph)
