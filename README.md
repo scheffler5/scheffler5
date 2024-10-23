@@ -36,9 +36,9 @@
 ![Godot-Engine](https://img.shields.io/badge/-Godot_engine-0D1117?style=for-the-badge&logo=Godot-engine&labelColor=0D1117)&nbsp;
 
 
+![snake_gif](https://github.com/scheffler5/scheffler5/blob/output/github-snake-dark.svg)
 
 
-![snake gif](https://github.com/scheffler5/scheffler5/blob/output/github-contribution-grid-snake.svg)
 
 
 
