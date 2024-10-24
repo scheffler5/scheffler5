@@ -3,14 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima+Scheffler;I'm+18+years+old;I+am+from+Santa+Helena,+PR;I+study+Computer+Science+at+UTFPR;Be+Welcome!)](https://git.io/typing-svg)
   
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scheffler5&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=00000" alt="Gabriel Lima Scheffler github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheffler5&layout=compact&hide_border=true&title_color=FF0000&text_color=00bfbf&bg_color=00000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=scheffler5&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=000000&cache_seconds=86400" alt="Gabriel Lima Scheffler github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheffler5&layout=compact&hide_border=true&title_color=FF0000&text_color=00bfbf&bg_color=000000&cache_seconds=86400" />
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scheffler5&bg_color=000000&color=FF0000&line=FF0000&point=8B0000&area=true&hide_border=true)](https://github.com/scheffler500710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scheffler5&bg_color=000000&color=FF0000&line=FF0000&point=8B0000&area=true&hide_border=true&cache_seconds=86400)](https://github.com/scheffler500710/github-readme-activity-graph)
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=scheffler5&theme=onestar&row=2&column=3&margin-w=15&margin-h=15" />
+ 
+  <img src="https://github-profile-trophy.vercel.app/?username=scheffler5&theme=onestar&row=2&column=3&margin-w=15&margin-h=15&cache_seconds=86400" />
+
 </p>
 
 
