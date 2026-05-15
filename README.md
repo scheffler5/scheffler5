@@ -1,5 +1,5 @@
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima+Scheffler;I'm+19+years+old;I+am+from+Santa+Helena,+PR;I+study+Computer+Science+at+UTFPR;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Lima+Scheffler;I'm+20+years+old;I+am+from+Santa+Helena,+PR;I+study+Computer+Science+at+UTFPR;Be+Welcome!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
